@@ -1,2 +1,3 @@
 # Hello-the-bright-World
-Here I come!
+I was a beginner,but I hope it will not be long before
+I become more skillful.
